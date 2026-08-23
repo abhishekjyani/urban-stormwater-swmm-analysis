@@ -1,0 +1,4 @@
+case,imperviousness_change_pp,surface_runoff_mm,peak_outfall_m3s,total_flooding_m3,J7_flooding_m3,C5_peak_flow_m3s,C5_max_full,runoff_continuity_error_pct,routing_continuity_error_pct
+U1_baseline,0,42.574,1.174,202,137,1.174,1.67,-0.007,-0.208
+U2_plus15,15,51.274,1.229,675,352,1.229,1.75,-0.008,-0.234
+U3_plus30,30,59.565,1.251,1255,550,1.251,1.78,-0.008,-0.251

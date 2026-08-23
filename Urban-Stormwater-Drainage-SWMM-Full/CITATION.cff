@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Urban Stormwater Drainage Network Modelling using EPA SWMM"
+message: "If you use this project or its derived data, please cite this repository."
+type: software
+authors:
+  - family-names: Jyani
+    given-names: Abhishek
+year: 2026

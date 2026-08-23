@@ -1,0 +1,20 @@
+{
+  "baseline": {"rainfall_multiplier": 0.6, "total_rainfall_mm": 66, "C5_diameter_m": 0.75},
+  "rainfall_sensitivity": [
+    {"case": "0.6P", "multiplier": 0.6},
+    {"case": "0.8P", "multiplier": 0.8},
+    {"case": "1.0P", "multiplier": 1.0},
+    {"case": "1.2P", "multiplier": 1.2},
+    {"case": "1.4P", "multiplier": 1.4}
+  ],
+  "urbanization_sensitivity": [
+    {"case": "U1", "imperviousness_change_percentage_points": 0},
+    {"case": "U2", "imperviousness_change_percentage_points": 15},
+    {"case": "U3", "imperviousness_change_percentage_points": 30}
+  ],
+  "capacity_sensitivity": [
+    {"case": "baseline", "C5_diameter_m": 0.75},
+    {"case": "P2", "C5_diameter_m": 0.90},
+    {"case": "P3", "C5_diameter_m": 1.05}
+  ]
+}
